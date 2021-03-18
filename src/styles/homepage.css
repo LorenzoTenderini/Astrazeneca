@@ -5,3 +5,12 @@
   height: 20px;
   text-align: center;
 }
+
+.Astrazeneca{
+  font-size: 40px;
+  color: black;
+}
+.Astrazeneca:hover{
+  text-decoration: none;
+  color: black;
+}
