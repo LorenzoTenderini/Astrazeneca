@@ -1,0 +1,16 @@
+.Barra_superiore{
+  background-color: #9df6c7;
+  margin-left: 3%;
+  margin-right: 3%;
+  height: 20px;
+  text-align: center;
+}
+
+.Astrazeneca{
+  font-size: 40px;
+  color: black;
+}
+.Astrazeneca:hover{
+  text-decoration: none;
+  color: black;
+}

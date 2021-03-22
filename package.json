@@ -1,7 +1,7 @@
 {
   "name": "fe-bootstrap",
   "version": "1.0.0",
-  "description": "",
+  "description": "Sito Astrazeneca",
   "main": "index.js",
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack",
@@ -36,8 +36,18 @@
     "webpack-provide-global-plugin": "0.0.1"
   },
   "dependencies": {
+    "bootstrap": "^4.6.0",
     "gsap": "^2.1.3",
+    "jquery": "^3.6.0",
     "moment": "^2.24.0",
     "moment-with-locales-es6": "^1.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LorenzoTenderini/Astrazeneca.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LorenzoTenderini/Astrazeneca/issues"
+  },
+  "homepage": "https://github.com/LorenzoTenderini/Astrazeneca#readme"
 }
